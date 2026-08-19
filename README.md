@@ -13,12 +13,7 @@
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=GhoRid&show_icons=true&show=prs_merged&theme=transparent&hide_border=true"
-    alt="GhoRid GitHub stats"
-  />
-  <img
-    height="170"
+    height="300"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=GhoRid&layout=compact&theme=transparent&hide_border=true"
     alt="GhoRid Top Languages"
   />
